@@ -1,0 +1,6 @@
+print ('bin(25) = ', bin (25))
+print ('0b11001 = ', 0b11001)
+print ('oct(25) = ', oct(25))
+print ('0o25 = ', 0o31)
+print ('hex(25) = ', hex(25))
+print ('0x19 = ', 0x19)
